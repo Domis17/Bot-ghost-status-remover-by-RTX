@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","Eating Oreos :3"];
+const statusMessages = ["Do your math!","Eating Oreos :3","Why are you reading this?", "You should be doing math instead", "If you get an F I'll eat you like an oreo"];
 
 
 let currentIndex = 0;
